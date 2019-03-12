@@ -1,0 +1,14 @@
+C:\dev\dotnet\BaltaStore\BaltaStore.Test\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\dev\dotnet\BaltaStore\BaltaStore.Test\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\dev\dotnet\BaltaStore\BaltaStore.Test\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\dev\dotnet\BaltaStore\BaltaStore.Test\bin\Debug\netcoreapp2.2\BaltaStore.Test.deps.json
+C:\dev\dotnet\BaltaStore\BaltaStore.Test\bin\Debug\netcoreapp2.2\BaltaStore.Test.runtimeconfig.json
+C:\dev\dotnet\BaltaStore\BaltaStore.Test\bin\Debug\netcoreapp2.2\BaltaStore.Test.runtimeconfig.dev.json
+C:\dev\dotnet\BaltaStore\BaltaStore.Test\bin\Debug\netcoreapp2.2\BaltaStore.Test.dll
+C:\dev\dotnet\BaltaStore\BaltaStore.Test\bin\Debug\netcoreapp2.2\BaltaStore.Test.pdb
+C:\dev\dotnet\BaltaStore\BaltaStore.Test\obj\Debug\netcoreapp2.2\BaltaStore.Test.csprojAssemblyReference.cache
+C:\dev\dotnet\BaltaStore\BaltaStore.Test\obj\Debug\netcoreapp2.2\BaltaStore.Test.csproj.CoreCompileInputs.cache
+C:\dev\dotnet\BaltaStore\BaltaStore.Test\obj\Debug\netcoreapp2.2\BaltaStore.Test.AssemblyInfoInputs.cache
+C:\dev\dotnet\BaltaStore\BaltaStore.Test\obj\Debug\netcoreapp2.2\BaltaStore.Test.AssemblyInfo.cs
+C:\dev\dotnet\BaltaStore\BaltaStore.Test\obj\Debug\netcoreapp2.2\BaltaStore.Test.dll
+C:\dev\dotnet\BaltaStore\BaltaStore.Test\obj\Debug\netcoreapp2.2\BaltaStore.Test.pdb
